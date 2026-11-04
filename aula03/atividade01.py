@@ -5,11 +5,11 @@ salario = float (input (' Informe o Salario :'))
  
 
  percentual = float (input('informe o Digito para percentual:  '))
-percentual = percentual /100
+ percentual = percentual /100
 
 
 
-subtotal = salario *percentual
+subtotal = salario * percentual
 
 total = subtotal +salario
 
